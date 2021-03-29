@@ -1,0 +1,124 @@
+@media (max-width:1500px) {
+    .wrepper {
+        max-width: 1520px;
+    }
+}
+@media (max-width:1050px) {
+    .header .menu ul li a {
+        padding: 0 25px;
+        line-height: 65px;
+        font-size: 25px;
+    }
+    .about .a2 .r {
+        width: 52%;
+    }
+}
+@media (max-width:996px) {
+    .header .logo {
+        width: 100%;
+        text-align: center;
+    }
+    .header .menu {
+        width: 100%;
+    }
+    .header .menu ul {
+        text-align: center;
+    }
+    .header .menu ul li a {
+        padding: 0 25px;
+        line-height: 49px;
+        font-size: 20px;
+    }
+}
+/* =-=-main css=-= */
+.service .s2 .d1 h2 {
+	text-transform: capitalize;
+}
+
+@media (max-width:768px) {
+    .header .menu ul li a {
+        padding: 0px 20px;
+        font-size: 18px;
+    }
+    .benner {
+        padding: 100px 0;
+    }
+    .benner .link a {
+        padding: 10px 25px;
+    }
+    .benner h3 {
+        font-size: 20px;
+    }
+    .benner h1 {
+        font-size: 40px;
+    }
+    .service .s2 .d1 {
+        width: 48%;
+        padding: 15px 10px;
+        margin-bottom: 15px;
+    }
+    .about .a2 .l {
+        width: 100%;
+        text-align: center;
+    }
+    .about .a2 .r {
+        width: 100%;
+        text-align: center;
+    }
+    p {
+        padding: 0 20px !important;
+    }
+    .service .s2 {
+        margin-left: 0;
+    }
+    .social ul li a {
+        font-size: 20px;
+        width: 50px;
+        height: 50px;
+        line-height: 50px;
+    }
+}
+@media (max-width:600px) {
+    .header .logo img {
+        width: 170px;
+    }
+    .header .menu ul li a {
+        padding: 0 15px;
+        line-height: 35px;
+        font-size: 18px;
+    }
+    .benner .link a {
+        padding: 10px 20px;
+        font-size: 15px;
+    }
+    .benner h3 {
+        font-size: 15px;
+    }
+    .benner h1 {
+        font-size: 30px;
+    }
+    .contact .c2 {
+        margin-left: 0;
+    }
+    .contact .c2 .inf {
+        width: 100%;
+        margin-bottom: 30px;
+    }
+
+}
+@media (max-width:576px) {
+    .service .s2 .d1 {
+        width: 100%;
+    }
+    .service .s2 .d1 p {
+        padding: 0 80px !important;
+    }
+
+}
+@media (max-width:480px) {
+    .header .menu ul li a {
+        padding: 0 10px;
+        font-size: 13px;
+    }
+
+}
